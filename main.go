@@ -14,7 +14,7 @@ import (
 
 var (
 	webhookUrl   string = "***************"
-	slackChannel        = "********"
+	slackChannel string = "********"
 )
 
 func main() {
